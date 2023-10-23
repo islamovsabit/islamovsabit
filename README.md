@@ -1,8 +1,6 @@
      
 <img src="https://github.com/islamovsabit/islamovsabit/assets/147802380/d96abca2-5973-4a74-92df-48b46d6ef27c" alt="readme_image" width="100%" />
-```
-https://github.com/bilmerislamov/Bilmer_Library/assets/142201562/7075e753-5de1-47f8-83ec-0c0612815a3a
-```
+
 
 <h1 align="center">My Library Account</h1>
 
@@ -40,8 +38,8 @@ https://github.com/bilmerislamov/Bilmer_Library/assets/142201562/7075e753-5de1-4
     <a href="#!" style="text-decoration: none;" target="_blank" rel="noreferrer"><img src="https://github.com/bilmerislamov/world-time/assets/142201562/083592ce-e068-488f-a75a-a3e7dd6d28fd" alt="nextjs.org" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamovsabit&show_icons=true&locale=en&layout=compact" alt="islamovsabit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamovsabit&show_icons=true&locale=en&layout=compact" alt="islamovsabit" width="49%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamovsabit&show_icons=true&locale=en" alt="islamovsabit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=islamovsabit&show_icons=true&locale=en" alt="islamovsabit" width="49%" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamovsabit&" alt="islamovsabit" /></p>
