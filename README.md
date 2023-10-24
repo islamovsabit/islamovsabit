@@ -1,6 +1,4 @@
-     
 <img src="https://github.com/islamovsabit/islamovsabit/assets/147802380/d96abca2-5973-4a74-92df-48b46d6ef27c" alt="readme_image" width="100%" />
-
 
 # Islamov Sabit
 
@@ -16,8 +14,8 @@ Currently, I am a graduate of the Back end course
 <h3 align="left">Skills and Experience</h3>
 
 - ⚛ React
-- ⚒ Api
-- 💻 HTML, CSS, JS
+- 🎲 Api
+- 🖱 HTML, CSS, JS
   
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
